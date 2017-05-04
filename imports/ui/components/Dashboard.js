@@ -5,7 +5,7 @@ import Header from './Header';
 export default () => {
       return (
         <div>
-          <Header title="Your Links" />
+          <Header title="Dashboard" />
           <div className="page-content">
             Dashboard page content
           </div>
